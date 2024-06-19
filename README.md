@@ -47,4 +47,4 @@
 
 # 발표영상 유튜브 링크
 
-https://youtu.be/ywYgPqMpyUg
+[![YouTube Video](https://github.com/Y-hyundo/To-Do-List/assets/172923798/a8d74672-5550-4e27-9722-750eb3f5670b)](https://youtu.be/ywYgPqMpyUg)
