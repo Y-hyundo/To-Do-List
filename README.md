@@ -22,16 +22,17 @@
 
 <img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77" width="200" height="400">
 
-![Main](https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77)
 
 - START 버튼 클릭 후 날짜 선택 화면
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/545e1f5f-972d-482f-9aab-6d66def9f2cf/df61da27-e336-4bfd-b7c4-efdc8243ace8/Untitled.png)
+<img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/7cf7d89d-8e17-4dd4-8095-b4e8af1dde09" width="200" height="400">
+
 
 - 날짜 선택 후 할일 관리 화면
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/545e1f5f-972d-482f-9aab-6d66def9f2cf/ec2cae54-645e-4621-98cd-d70f740c09b2/Untitled.png)
+<img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/d77a7b61-2bed-4a76-a607-f2c6b4f6c93a" width="200" height="400">
+
 
 - 할일 관리 화면에서 오른쪽 상단에 메뉴 기능(Edit 메뉴)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/545e1f5f-972d-482f-9aab-6d66def9f2cf/d590e71b-3314-4f05-92b3-a4d8216e9a91/Untitled.png)
+<img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/b3f8c442-2238-4e46-af61-601b35b2ed2b" width="200" height="400">
