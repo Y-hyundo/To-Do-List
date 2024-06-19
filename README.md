@@ -21,8 +21,6 @@
 - 앱 최초 실행 시 화면
 ![Main](https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77)
 
-![앱 최초 실행 시 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/545e1f5f-972d-482f-9aab-6d66def9f2cf/7193fa82-8d7b-4889-b74c-c12cf63f40c3/Untitled.png)
-
 - START 버튼 클릭 후 날짜 선택 화면
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/545e1f5f-972d-482f-9aab-6d66def9f2cf/df61da27-e336-4bfd-b7c4-efdc8243ace8/Untitled.png)
