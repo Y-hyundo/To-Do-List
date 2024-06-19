@@ -43,3 +43,8 @@
 - 할일 관리 화면에서 오른쪽 상단에 메뉴 기능(Edit 메뉴)
 
 <img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/b3f8c442-2238-4e46-af61-601b35b2ed2b" width="200" height="400">
+
+
+# 발표영상 유튜브 링크
+
+https://youtu.be/ywYgPqMpyUg
