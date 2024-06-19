@@ -19,7 +19,9 @@
 ---
 
 - 앱 최초 실행 시 화면
-  
+
+<img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77" width="300" height="400">
+
 ![Main](https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77)
 
 - START 버튼 클릭 후 날짜 선택 화면
