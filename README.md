@@ -1,5 +1,7 @@
 # 📋ToDoList
 
+---
+
 날짜를 선택해 원하는 날짜에 할일 목록을 추가 및 삭제할 수 있는 어플리케이션
 
 - 개발 환경 : Android Studio
@@ -23,14 +25,20 @@
 <img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/36be5794-2249-4c67-8063-a8e7a14d0a77" width="200" height="400">
 
 
+
+
 - START 버튼 클릭 후 날짜 선택 화면
 
 <img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/7cf7d89d-8e17-4dd4-8095-b4e8af1dde09" width="200" height="400">
 
 
+
+
 - 날짜 선택 후 할일 관리 화면
 
 <img src="https://github.com/Y-hyundo/To-Do-List/assets/172923798/d77a7b61-2bed-4a76-a607-f2c6b4f6c93a" width="200" height="400">
+
+
 
 
 - 할일 관리 화면에서 오른쪽 상단에 메뉴 기능(Edit 메뉴)
